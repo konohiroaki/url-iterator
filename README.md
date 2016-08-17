@@ -3,7 +3,7 @@ Iterating URL google extension.
 
 ## Installation
 - [Download](https://github.com/konohiroaki/url-iterator/archive/master.zip) url-iterator and unzip.
-- Access [Extensions page](chrome://extensions/) via Google Chrome.
+- Access `chrome://extensions/` via Google Chrome.
 - Enable `Developer Mode` by ticking the checkbox at the upper right.
 - Click the button `Load unpacked extension...` and open the folder of `url-iterator`
 
