@@ -1,0 +1,16 @@
+body{
+    width: 500px;
+    min-height: 300px;
+}
+#prev_txt, #current_txt, #next_txt{
+    resize: none;
+    width: 400px;
+}
+
+#next_txt{
+    resize: vertical;
+}
+
+#prev, #current, #next{
+    text-align: right;
+}
